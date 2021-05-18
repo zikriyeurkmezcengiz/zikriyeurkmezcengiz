@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zikriye</h1>
 <h3 align="center">A Passionate Full Stack Developer and Curious Scrum Master</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zikriyeurkmezcengiz" alt="zikriyeurkmez" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zikriyeurkmezcengiz&margin-w=5" alt="zikriyeurkmez" /></a> </p>
 
 - 🌍 For Further information look at my [personal website](https://zikriyeurkmez.com)
 
@@ -10,6 +10,7 @@
 - 📫 How to reach me **zikriyeurkmez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zikriyeurkmezcengiz" alt="zikriyeurkmezcengiz" /> </p>
 <p align="left">
 <a href="https://linkedin.com/in/zikriye-urkmez-cengiz" target="_blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="zikriye-urkmez-cengiz" height="30" width="30" /></a>
 <a href="https://medium.com/@zikriyeurkmez" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@zikriyeurkmez" height="30" width="40" /></a>
@@ -33,6 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zikriyeurkmezcengiz&show_icons=true&theme=radical&locale=en&count_private=true&hide=issues" alt="zikriyeurkmezcengiz" width="50%" /></p>
 
-<div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zikriyeurkmezcengiz" alt="zikriyeurkmezcengiz" /> </p>
- </div>
+
