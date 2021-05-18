@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Full Stack Developer and Curious Scrum Master</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zikriyeurkmezcengiz" alt="zikriyeurkmez" /></a> </p>
-<br/>
 
 - 🌍 For Further information look at my [personal website](https://zikriyeurkmez.com)
 
