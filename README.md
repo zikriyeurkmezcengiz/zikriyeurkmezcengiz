@@ -5,7 +5,7 @@
 
 - 📝 Follow me on [Medium](https://medium.com/@zikriyeurkmez)
 
-- 🌍 Further information look at my [personal website](https://zikriyeurkmez.com)
+- 🌍 For Further information look at my [personal website](https://zikriyeurkmez.com)
 
 - 💬 Ask me about **C#, .Net Core, React, Agile, Team Culture**
 
