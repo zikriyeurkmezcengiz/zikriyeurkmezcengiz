@@ -2,18 +2,22 @@
 <h3 align="center">A Passionate Full Stack Developer and Curious Scrum Master</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zikriyeurkmezcengiz&theme=onedark" alt="zikriyeurkmez" /></a> </p>
+<br/>
 
 - 🌍 For Further information look at my [personal website](https://zikriyeurkmez.com)
 
 - 💬 Ask me about **C#, .Net Core, React, Agile, Team Culture**
 
 - 📫 How to reach me **zikriyeurkmez@gmail.com**
+  <br/>
+  <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zikriye-urkmez-cengiz" target="_blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="zikriye-urkmez-cengiz" height="30" width="30" /></a>
 <a href="https://medium.com/@zikriyeurkmez" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@zikriyeurkmez" height="30" width="40" /></a>
 </p>
+  <br/>
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
@@ -28,6 +32,7 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
 
 </p>
+  <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zikriyeurkmezcengiz&show_icons=true&theme=radical&locale=en&layout=compact" alt="zikriyeurkmezcengiz" /></p>
 
