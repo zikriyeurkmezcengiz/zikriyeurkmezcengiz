@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zikriye</h1>
-<h3 align="center">Full Stack Developer and Scrum Master from Istanbul/Turkey</h3>
+<h3 align="center">A Passionate Full Stack Developer and Curious Scrum Master</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zikriyeurkmezcengiz&theme=onedark" alt="zikriyeurkmez" /></a> </p>
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/zikriye-urkmez-cengiz" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="zikriye-urkmez-cengiz" height="30" width="30" /></a>
 <a href="https://medium.com/@zikriyeurkmez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@zikriyeurkmez" height="30" width="40" /></a>
- <a href="https://stackoverflow.com/users/story/15672879" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="12544106" height="45" width="45" /></a>
+ <a href="https://linkedin.com/in/zikriye-urkmez-cengiz" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="zikriye-urkmez-cengiz" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Technologies:</h3>
