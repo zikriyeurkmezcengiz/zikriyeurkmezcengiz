@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zikriye-urkmez-cengiz" target="_blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="zikriye-urkmez-cengiz" height="30" width="30" /></a>
-<a href="https://medium.com/@zikriyeurkmez" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tZSzY3tgMrgLEyJWY0fChWR-7gwDCHep0UEy_PE0sSiu_gUdXo6pM402iTW-jS4W0XY&usqp=CAU" alt="@zikriyeurkmez" height="30" width="40" /></a>
+<a href="https://medium.com/@zikriyeurkmez" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tZSzY3tgMrgLEyJWY0fChWR-7gwDCHep0UEy_PE0sSiu_gUdXo6pM402iTW-jS4W0XY&usqp=CAU" alt="@zikriyeurkmez" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Technologies:</h3>
