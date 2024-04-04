@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zikriye</h1>
-<h3 align="center">A Passionate Full Stack Developer and Curious Scrum Master</h3>
+<h3 align="center">A Passionate Full Stack Developer and Engineering Manager!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zikriyeurkmezcengiz&margin-w=5" alt="zikriyeurkmez" /></a> </p>
 
