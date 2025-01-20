@@ -22,13 +22,13 @@
 </ul>
 
 <h3 align="left">📫 Let's Connect:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/zikriye-urkmez-cengiz" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://medium.com/@zikriyeurkmez" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/medium-new.png" alt="Medium"></a>
-  <a href="https://substack.com/home?utm_source=user-menu" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/substack.png" alt="Substack"></a>
-  <a href="https://x.com/ZikriyeUrkmez" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter"></a>
-  <a href="https://bsky.app/profile/zikriyeurkmez.bsky.social" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/bluesky.png" alt="Bluesky"></a>
-</p>
+<ul>
+  <li><a href="https://linkedin.com/in/zikriye-urkmez-cengiz" target="_blank">LinkedIn</a></li>
+  <li><a href="https://medium.com/@zikriyeurkmez" target="_blank">Medium</a></li>
+  <li><a href="https://substack.com/home?utm_source=user-menu" target="_blank">Substack</a></li>
+  <li><a href="https://x.com/ZikriyeUrkmez" target="_blank">Twitter</a></li>
+  <li><a href="https://bsky.app/profile/zikriyeurkmez.bsky.social" target="_blank">Bluesky</a></li>
+</ul>
 
 ---
 
