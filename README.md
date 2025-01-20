@@ -32,14 +32,6 @@
 
 ---
 
-<h3 align="left">⚙️ Technologies & Tools:</h3>
-<p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".NET"/> </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/> </a>
-</p>
-
----
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zikriyeurkmezcengiz&show_icons=true&theme=radical&count_private=true&hide=issues" alt="GitHub Stats" width="50%" /></p>
