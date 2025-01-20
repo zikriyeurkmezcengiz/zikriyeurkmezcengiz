@@ -7,7 +7,7 @@
 
 <p align="center"><strong>Check out my latest newsletter:</strong> <a href="https://zikriyeurkmez.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile">Codewarts: Wisdom of Digital Works and Arts</a> 📬</p>
 
-<h3 align="left">📧 Email Me:</h3> <a href="mailto:zikriyeurkmez@gmail.com" target="_blank">zikriyeurkmez@gmail.com</a>
+<h3 align="left" style="display: inline;">📧 Email Me: </h3><p align="left" style="display: inline;"><a href="mailto:zikriyeurkmez@gmail.com" target="_blank">zikriyeurkmez@gmail.com</a></p>
 
 ---
 
