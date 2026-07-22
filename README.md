@@ -35,12 +35,4 @@
 
 <hr>
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=zikriyeurkmezcengiz&show_icons=true&theme=radical&count_private=true&hide=issues" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=zikriyeurkmezcengiz&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="48%" />
-</p>
-
-<hr>
-
 <p align="center">💻 <strong>"Building teams and technologies to make a difference."</strong></p>
