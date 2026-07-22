@@ -27,14 +27,19 @@
   <li>🔹 Share deep-dive technical writing (Domain-Driven Design, RAG systems) and insights through <strong>Codewarts</strong> and speaking engagements.</li>
 </ul>
 
-<h3 align="left">📫 Let's Connect</h3>
+<h3 align="left">🚀 Open Source</h3>
 <ul>
-  <li><a href="https://linkedin.com/in/zikriye-urkmez-cengiz" target="_blank">LinkedIn</a></li>
-  <li><a href="https://zikriyeurkmez.substack.com" target="_blank">Substack</a></li>
-  <li><a href="https://medium.com/@zikriyeurkmez" target="_blank">Medium</a></li>
-  <li><a href="https://x.com/ZikriyeUrkmez" target="_blank">Twitter</a></li>
-  <li><a href="https://bsky.app/profile/zikriyeurkmez.bsky.social" target="_blank">Bluesky</a></li>
+  <li>🔹 <strong>Taskforce</strong> — an open-source educational initiative. <a href="https://github.com/zikriyeurkmezcengiz/Taskforce" target="_blank">Check it out →</a></li>
 </ul>
+
+<h3 align="left">📫 Let's Connect</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/zikriye-urkmez-cengiz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://zikriyeurkmez.substack.com" target="_blank"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
+  <a href="https://medium.com/@zikriyeurkmez" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://x.com/ZikriyeUrkmez" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://bsky.app/profile/zikriyeurkmez.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+</p>
 
 <hr>
 
