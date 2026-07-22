@@ -19,10 +19,10 @@
 <h3 align="left">💡 What I Do</h3>
 <ul>
   <li>🔹 Build and lead engineering teams delivering scalable, high-quality software.</li>
-  <li>🔹 Design and ship backend systems in <strong>.NET / C#</strong>, including production-grade RAG pipelines (Postgres + pgvector, Voyage AI embeddings, Claude generation).</li>
+  <li>🔹 Design and ship backend systems in <strong>.NET / C#</strong>.</li>
   <li>🔹 Mentor developers 1:1 through <strong>ADPList</strong>, drawing on 15+ years in software and 5+ years in engineering management.</li>
-  <li>🔹 Advocate for diversity and inclusion in tech and fight against bro-culture.</li>
-  <li>🔹 Share deep-dive technical writing (Domain-Driven Design, RAG systems) and insights through <strong>Codewarts</strong> and speaking engagements.</li>
+  <li>🔹 Advocate for diversity and inclusion in tech.</li>
+  <li>🔹 Share deep-dive technical writing and insights through <strong>Codewarts</strong> and speaking engagements.</li>
 </ul>
 
 <h3 align="left">📫 Let's Connect</h3>
@@ -37,8 +37,8 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zikriyeurkmezcengiz&show_icons=true&theme=radical&count_private=true&hide=issues" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zikriyeurkmezcengiz&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=zikriyeurkmezcengiz&show_icons=true&theme=radical&count_private=true&hide=issues" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=zikriyeurkmezcengiz&show_icons=true&theme=radical&layout=compact" alt="Top Languages" width="48%" />
 </p>
 
 <hr>
