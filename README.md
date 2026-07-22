@@ -27,11 +27,6 @@
   <li>🔹 Share deep-dive technical writing (Domain-Driven Design, RAG systems) and insights through <strong>Codewarts</strong> and speaking engagements.</li>
 </ul>
 
-<h3 align="left">🚀 Open Source</h3>
-<ul>
-  <li>🔹 <strong>Taskforce</strong> — an open-source educational initiative. <a href="https://github.com/zikriyeurkmezcengiz/Taskforce" target="_blank">Check it out →</a></li>
-</ul>
-
 <h3 align="left">📫 Let's Connect</h3>
 <ul>
   <li><a href="https://linkedin.com/in/zikriye-urkmez-cengiz" target="_blank">LinkedIn</a></li>
