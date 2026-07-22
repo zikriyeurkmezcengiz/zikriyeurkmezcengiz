@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zikriye</h1>
-<h3 align="center">Engineering Manager | Full Stack Developer | Technology Enthusiast</h3>
+<h3 align="center">Engineering Manager | Software Architect</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/zikriye-urkmez-cengiz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -8,7 +8,7 @@
 
 <hr>
 
-<p align="center">With years of experience in <strong>.NET Core, C#, and React</strong>, I specialize in building scalable software solutions and creating high-performing engineering teams. I'm passionate about fostering inclusive team cultures and delivering impactful products.</p>
+<p align="center">With years of experience in <strong>.NET, C#, and React</strong>, I specialize in building scalable software solutions and creating high-performing engineering teams. I'm passionate about fostering inclusive team cultures and delivering impactful products.</p>
 
 <p align="center">
   <strong>🎓 Mentoring:</strong> <a href="https://adplist.org/mentors/zikriye-urkmez" target="_blank">ADPList</a>
